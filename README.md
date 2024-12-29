@@ -1,4 +1,4 @@
-# THESIS - Migrant-Crisis-In-Europe
+# THESIS - Migrant-Crisis-In-Europe. Mining Themes and Perceptions in Immigration Coverage; A Discourse Analysis, Latent Dirichlet Allocation Topic Modeling and Sentiment Analysis Approach
 
 The European migrant crisis has immensely shaped public discourse, perceptions, and policies, indicating the media’s ability to influence attitudes toward refugees, asylum seekers, immigrants, and migrants (RASIM). This study investigates media coverage of migration in Europe through an integrative approach comprising discourse analysis, Latent Dirichlet Allocation (LDA) topic modelling, and sentiment analysis. The study relies on tools such as AntConc, #LancBox, and Python to examine how migration is discussed in a corpus of migration-related news articles. 
 

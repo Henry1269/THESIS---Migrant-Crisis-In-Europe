@@ -6,7 +6,7 @@ Key findings explain that RASIM is mainly associated with markers like nationali
 
 The study also highlights the media’s tendency to control societal views and migration policies through their publications. It alerts that negative stereotype and oversimplified security narratives promote exclusion, while limited positive framing stifles progress toward integration. The findings of this study provide a framework for ethical reporting and advocate for an extensive multilingual and multimedia analysis in future research.
 
-Below are some of the excerpts of the findings. Most 
+Below are some of the excerpts of the findings. 
 # DISCOURSE ANALYSIS
 
 ![Refugee](https://github.com/user-attachments/assets/59b64cb9-5804-45f2-a92d-b5b5475ddb09)

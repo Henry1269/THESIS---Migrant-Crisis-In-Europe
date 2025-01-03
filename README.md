@@ -15,12 +15,12 @@ Below are some of the excerpts of the findings.
 
 ![Topic Modleing](https://github.com/user-attachments/assets/8b7faf61-3a0e-42e6-8e8c-9cdc2c5e40b4)
 
-Topic Label	Topic Description / Top Terms	Topic Proportion (%)
-1_Maritime Migration and Human Stories	people, year, boat, life, child, time, family, many, police 	26
-2_Labor Migration and Economic Impact	year, worker, people, government, country, work, number, labour, visa, asylum	21.2
-3_Geopolitics and Border Control	border, country, state, european, president, trump, minister, right, biden, people	19
-4_Refugees and Family Dynamics	people, child, asylum, family, border, home, ukrainian, country, government, seeker	17.8
-5_Government Policies and Detention	government, people, asylum, home, austrailia, office, seeker, minister, dentention	16
+          Topic Label	                                   Topic Description / Top Terms	                       Topic Proportion (%)
+Topic 1 - Maritime Migration and Human Stories - people, year, boat, life, child, time, family, many, police -	26%
+Topic 2 - Labor Migration and Economic Impact - year, worker, people, government, country, work, number, labour, visa, asylum - 21.2%
+Topic 3 - Geopolitics and Border Control	border, country, state, european, president, trump, minister, right, biden, people - 19%
+Topic 4 - Refugees and Family Dynamics - people, child, asylum, family, border, home, ukrainian, country, government, seeker - 17.8%
+Topic 5 - Policies and Detention - government, people, asylum, home, austrailia, office, seeker, minister, dentention	- 16%
 
 # SENTIMENT ANALYSIS
 

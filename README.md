@@ -11,6 +11,10 @@ The study also highlights the media’s tendency to control societal views and m
 
 ![Refugee](https://github.com/user-attachments/assets/59b64cb9-5804-45f2-a92d-b5b5475ddb09), ![Asylum Seeker](https://github.com/user-attachments/assets/6c6b7039-e55b-4218-bd91-ce4bdc2d2c6f), ![Immigrant](https://github.com/user-attachments/assets/761bf9e8-c7d9-403a-b0da-5220ed901165), ![migrant](https://github.com/user-attachments/assets/be615125-1b93-4030-b21b-fc5676ed81a2)
 
+# TOPIC MODELING
+
+![Topic Modleing](https://github.com/user-attachments/assets/8b7faf61-3a0e-42e6-8e8c-9cdc2c5e40b4)
+
 
 
 
